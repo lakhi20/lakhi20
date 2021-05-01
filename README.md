@@ -22,7 +22,7 @@
  
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  
- lets connect on ➡️ <i class="ri-linkedin-box-line"></i>  <i class="ri-mail-line"></i>
+ 
+ <i class="ri-linkedin-box-line"></i>  
  
