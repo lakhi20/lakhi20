@@ -1,9 +1,9 @@
-#Hi there 👋
+# Hi there 👋
 
 ##  This is LAKHI KUMARI.
 
 
-👩‍💼 ## About me ➡️ 
+👩‍💼 # About me ➡️ 
 
 
 
