@@ -32,7 +32,7 @@
 
 
 
- #### connect with me here ⤵️
+ #### Connect with me here ⤵️
  [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lakhi-kumari/)
  [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/lakhi.kumari.731/)
  
