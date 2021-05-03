@@ -23,6 +23,5 @@
 
 
  
- 
- <i class="ri-linkedin-box-line"></i>  
+ [	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/linkedin.svg]()
  
