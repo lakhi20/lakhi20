@@ -18,11 +18,14 @@
 
  📫 **How to reach me**: contact me at [lakhikumari20@gmail.com](lakhikumari20@gmail.com)
  
- 👧 **Pronouns**: she/her/hers
+ 👧 **Pronouns**: she/her
+ 
+ 
+ [<img align="left" alt="lakhi-kumari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  
 
 
 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" width="800" height="400" alt="">
+
 	
  
