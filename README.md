@@ -16,7 +16,7 @@
  
  👯 I’m looking to contribute  on  a open source project
 
- 📫 **How to reach me**: contact me at [<img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](lakhikumari20@gmail.com)
+ 📫 **How to reach me**: contact me at [<img align="" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](lakhikumari20@gmail.com)
 
  
  👧 **Pronouns**: she/her
