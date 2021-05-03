@@ -23,5 +23,5 @@
 
 
  
- [	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/linkedin.svg]()
+ [	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg]()
  
