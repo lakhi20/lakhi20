@@ -4,8 +4,9 @@
 
 
   ### About me ➡️ 
-###### I am a organized and goal-driven person.Tech-savvy and a learner.
-###### My interest lies in web development /frontend development.I aspire to be a full-stack developer
+###### I am an organized and goal-driven person.Tech-savvy and a learner.
+###### My interest lies in web development development. I aspire to be a full-stack developer
+
 
 
 
@@ -24,7 +25,8 @@
  
  
  
- # Feel free to contact me on my social media
+ 
+ #   connect with me on my social media.
  
  [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lakhi-kumari/)
  [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/the_lakkhi)
