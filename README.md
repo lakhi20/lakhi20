@@ -13,7 +13,7 @@
  
  🏢 I’m currently working  as a web developer trainee.
  
- 🧑‍🎓 I’m currently learning  reactjs, python and data science.
+ 🧑‍🎓 I’m currently learning javascript , reactjs .
  
  👯 I’m looking to contribute  on  a open source project
  
