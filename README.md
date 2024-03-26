@@ -4,18 +4,9 @@
 
 
   ### About me ➡️ 
-###### I am an organized and goal-driven person.Tech-savvy and a learner.My interest lies in web development. I aspire to be a full-stack developer
+###### I am an organized and goal-driven person.Tech-savvy and a learner.
 
 
-
-
-
- 
- 🏢 I’m currently working  as a web developer trainee.
- 
- 🧑‍🎓 I’m currently learning javascript , reactjs .
- 
- 👯 I’m looking to contribute  on  a open source project
  
  📫 **How to reach me**: contact me at [lakhikumari20@gmail.com](lakhikumari20@gmail.com)
  
